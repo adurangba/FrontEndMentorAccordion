@@ -90,3 +90,8 @@ width: 22ch;
 height: fit-content;
 }
 
+.attribution{
+    position: fixed;
+    bottom: 2%;
+}
+
