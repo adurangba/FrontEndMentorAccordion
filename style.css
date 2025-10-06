@@ -75,7 +75,7 @@ body{
         padding: 40px;
         }
 .accordion .content-container .question{
-width: 22ch;
+width: auto;
 }
 .accordion .content-container .question .btn{
     right: -100px;
