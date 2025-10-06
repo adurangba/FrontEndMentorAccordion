@@ -80,7 +80,12 @@ width: auto;
 .accordion .content-container .question .btn{
     right: -100px;
 }
+.accordion .content-container .answer{
+width: auto;
+font-size: .8em;
+/* text-align: left; */
 }
+
 
 .accordion .content-container.active .question::after {
     background-image: url("assets/images/icon-minus.svg"); 
@@ -94,4 +99,4 @@ height: fit-content;
     position: fixed;
     bottom: 2%;
 }
-
+}
